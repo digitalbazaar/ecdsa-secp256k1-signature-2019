@@ -33,7 +33,7 @@
   "homepage": "https://github.com/digitalbazaar/ecdsa-secp256k1-signature-2019#readme",
   "dependencies": {
     "jsonld-signatures": "digitalbazaar/jsonld-signatures#node-12",
-    "secp256-key-pair": "digitalbazaar/secp256-key-pair#initial"
+    "secp256-key-pair": "digitalbazaar/secp256-key-pair"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
