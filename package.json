@@ -1,6 +1,6 @@
 {
   "name": "ecdsa-secp256k1-signature-2019",
-  "version": "1.0.0",
+  "version": "1.0.1-0",
   "description": "Implementation of the EcdsaSecp256k1Signature2019 suite for jsonld-signatures.",
   "main": "lib",
   "scripts": {
