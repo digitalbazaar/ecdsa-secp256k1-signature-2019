@@ -1,6 +1,6 @@
 # ecdsa-secp256k1-signature-2019 ChangeLog
 
-## 1.0.1 - TBD
+## 1.0.1 - 2019-09-06
 
 ### Changed
 - Use jsonld-signatures@4.4.0.
